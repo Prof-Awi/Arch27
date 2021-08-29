@@ -36,7 +36,7 @@ class Computer {
     fill("white");
     text("Player",280,40);
     fill(this.life1);
-    rect(width-420,50,70,0);
+    rect(width-420,50,70,30);
     fill(this.life2);
     rect(width-350,50,70,30);
     fill(this.life3);
